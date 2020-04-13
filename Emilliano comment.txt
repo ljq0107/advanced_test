@@ -1,6 +1,0 @@
-
-
-* good job creating and installing a child theme, but I'd like you to do some heavier modifications (your child theme has one single line of css.... seriously?!?)
-
-
-
